@@ -1,2 +1,2 @@
 # Ensayo-de-repositorio
-Este es un proyecto de prueba cin Git
+Este es un proyecto de prueba con Git
